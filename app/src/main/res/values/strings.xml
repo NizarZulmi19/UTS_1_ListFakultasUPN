@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS1 FakultasUPN</string>
+    <string name="faculty_profile_upn"> Fakultas UPN</string>
+    <string name="name_faculty"> Nama Fakultas</string>
+    <string name="name_description">Deskripsi Fakultas</string>
+    <string name="short_description">Deskripsi Jurusan</string>
+</resources>
